@@ -111,11 +111,41 @@ div {
  }
 
  .basicinfo {
-    color: #bba7cc;
+    color: #ffffff;
     text-align: center;
     background-color: #0000004d;
     position: absolute;
     top: 65px;
     left: 390px;
     font-size: 23px;
+ }
+
+ .myresume {
+   color: #ffffff;
+   text-align: center;
+   background: none;
+   position: absolute;
+   top: 530px;
+   left: 180px;
+   font-size: 25px;
+ }
+
+ .experance {
+   color: #ffffff;
+   text-align: center;
+   background: none;
+   position: absolute;
+   top: 500px;
+   left: 780px;
+   font-size: 25px;
+ }
+
+ .awards {
+   color: #ffffff;
+   text-align: center;
+   background: none;
+   position: absolute;
+   top: 510px;
+   right: 350px;
+   font-size: 22px;
  }
